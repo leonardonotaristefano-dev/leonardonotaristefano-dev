@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋🏻 What's up?</h1>
+<h1 align="left">From Curious to Creator: My Coding Adventure</h1>
 
 ###
 
