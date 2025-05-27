@@ -8,7 +8,7 @@
 ###
 
 <p align="left">
-I'm a driven and curious junior developer with a strong passion for front-end development. While I don’t have professional experience yet, I spend my time building personal projects that showcase my desire to learn, create, and grow — many of which are available in my repositories. I'm eager to keep improving my skills and contribute to meaningful, user-focused digital experiences.</p>
+I'm Leonardo, from Italy and I'm a curious junior developer with a strong passion for front-end development. While I don’t have professional experience yet, I spend my time building personal projects that showcase my desire to learn, create, and grow — many of which are available in my repositories. I'm eager to keep improving my skills and contribute to meaningful, user-focused digital experiences.</p>
 
 ###
 
