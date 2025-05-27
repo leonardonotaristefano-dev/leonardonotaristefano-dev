@@ -1,8 +1,5 @@
 <h1 align="left">🧗‍♂️ From Curious to Creator: My Coding Adventure</h1>
 
-###
-
-<p align="left">My name is Leonardo and I'm a Junior Full-stack developer, from Italy.</p>
 
 ###
 
